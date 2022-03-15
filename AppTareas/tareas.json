@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Hacer la cama",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Pasar a Sweppy",
+        "estado": "En progreso "
+    },
+    {
+        "titulo": "Jugar con Loki",
+        "estado": "Terminado"
+    },
+    {
+        "titulo": "Tarea Programacion",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "Lavar Cocina",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Lavar y guardar platos",
+        "estado": "Terminado"
+    },
+    {
+        "titulo": "Dormir",
+        "estado": "Pendiente"
+    }
+]

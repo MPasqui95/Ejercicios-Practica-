@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Tarea",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Estudiar",
+        "estado": "En Progreso"
+    },
+    {
+        "titulo": "Trabajo Practico",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Break",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Dormir",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Pasar Aspiradora",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Terminar Tp",
+        "estado": "Pendiente"
+    }
+]
